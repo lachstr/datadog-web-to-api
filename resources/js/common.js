@@ -1,6 +1,6 @@
 $(function()
 {
-	var emptyOutputMsg = "API Json will appear here";
+	var emptyOutputMsg = "API ready json will appear here";
 	var formattedEmptyOutputMsg = '<span style="color: #777;">'+emptyOutputMsg+'</span>';
 
 	// Hides placeholder text
