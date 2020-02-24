@@ -5,9 +5,7 @@ var filesToCache = [
     'resources/js/jquery.min.js',
     'resources/js/highlight.pack.js',
     'resources/js/common.js',
-    'https://mholt.github.io/json-to-go/resources/js/json-to-go.js',
-    'resources/js/curl-to-go.js',
-    'resources/js/gofmt.js',
+    'resources/js/web-to-api.js',
     'resources/css/color-brewer.css',
     'resources/css/common.css'
 ]

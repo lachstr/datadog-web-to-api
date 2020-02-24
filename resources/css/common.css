@@ -50,7 +50,7 @@ code {
 	font-family: 'Consolas', 'Menlo', 'Monaco', 'Courier New', monospace;
 	padding: 1px 3px;
 	background-color: #EEE;
-	font-size: 12px;
+	font-size: 8px;
 }
 
 .examples {
@@ -79,6 +79,7 @@ code {
 #input {
 	width: 100%;
 	margin-bottom: 50px;
+	font-size: 12px;
 	overflow-y: auto;
 	resize: vertical;
 }
@@ -86,7 +87,7 @@ code {
 #output {
 	background-color: #F0F8FF; /* "aliceblue" - happened on that by chance choosing a color in chrome inspector tools */
 	word-wrap: break-word;
-	font-size: 14px;
+	font-size: 12px;
 	overflow-x: auto;
 }
 
