@@ -5,7 +5,6 @@ var filesToCache = [
     'resources/js/jquery.min.js',
     'resources/js/highlight.pack.js',
     'resources/js/common.js',
-    'resources/js/web-to-api.js',
     'resources/css/color-brewer.css',
     'resources/css/common.css'
 ]
