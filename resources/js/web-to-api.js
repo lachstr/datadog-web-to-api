@@ -25,10 +25,10 @@ function jsonConv(input){
 
 	if (jsonInput.markers){
 		jsonInput.markers.forEach(function (marker, index){
-			var newMarker = {value = "", display_type: ""};
+			var newMarker = { value: "", display_type: ""};
 			newMarker.display_type = marker.type;
 			newMarker.value = marker.value;
-			newWidget.markers.push(marker)
+			newWidget.markers.push(newMarker);
 		});
 	}
 
